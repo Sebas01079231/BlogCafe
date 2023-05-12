@@ -39,5 +39,6 @@
         tambien se pueden usar %, aunque es mejor los valores de posicion
 
 
+
     inline-bock -> permite margin(top,bottom) y width, lo que no hace el inline. este respeta el tamaño del contenedor con respecto al contenido (como un elemento de linea), pero tambien repeta su espacio de bloque, osea que un elemento no se puede posicionar a lado de el. 
 -->
