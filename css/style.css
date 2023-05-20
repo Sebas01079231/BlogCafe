@@ -97,6 +97,12 @@ img{
     margin-top: 6rem;
     line-height: 1;
 }
+.header__h2{
+    line-height: 1;
+}
+.header__p{
+    line-height: 2;
+}
 /* barra */
 .logo{
     color: var(--blanco);
@@ -104,7 +110,14 @@ img{
 .logo__400{
     font-weight: 400;
 }
-
+.navegacion{
+    margin-top: 1rem;
+}
+@media (min-width: 768px) {
+    .navegacion{
+        margin-top: 0;
+    }
+}
 .navegacion__enlace{
     display: block;
     text-align: center;
