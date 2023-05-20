@@ -204,6 +204,12 @@ img{
     font-family: var(--fuente-heading);
     font-weight: 700;
 }
+.curso__label--precio{
+    margin-bottom: 0;
+}
+.curso__label--cupo{
+    margin-top: 0;
+}
 .widget-curso__info{
     font-weight: 400;
 }
